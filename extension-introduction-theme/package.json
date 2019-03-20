@@ -1,0 +1,21 @@
+{
+    "name": "extension-introduction-theme",
+    "displayName": "extension-introduction-theme",
+    "description": "主题颜色",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "extension-introduction-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/extension-introduction-theme-color-theme.json"
+            }
+        ]
+    }
+}

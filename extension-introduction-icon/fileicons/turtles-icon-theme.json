@@ -1,0 +1,23 @@
+{
+  "fonts": [
+    {
+      "id": "turtles-font",
+      "src": [
+        {
+          "path": "./turtles.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal",
+      "size": "150%"
+    }
+  ],
+  "iconDefinitions": {
+    "_file": {
+      "fontCharacter": "\\E002",
+      "fontColor": "#5f8b3b",
+      "fontId": "turtles-font"
+    }
+  }
+}
